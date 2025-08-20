@@ -1,0 +1,6 @@
+Api.iml
+allure-results
+lsfile.txt
+pom.xml
+src
+target
