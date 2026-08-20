@@ -16,3 +16,14 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 .DS_Store
+
+# Python / Playwright training framework
+playwright-pytest-framework/.venv/
+playwright-pytest-framework/venv/
+playwright-pytest-framework/.env
+playwright-pytest-framework/.pytest_cache/
+playwright-pytest-framework/__pycache__/
+playwright-pytest-framework/**/__pycache__/
+playwright-pytest-framework/artifacts/
+playwright-pytest-framework/allure-results/
+playwright-pytest-framework/test-results/
