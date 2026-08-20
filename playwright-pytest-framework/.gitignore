@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Pytest / Playwright
+.pytest_cache/
+test-results/
+playwright-report/
+blob-report/
+artifacts/
+allure-results/
+allure-report/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Java (legacy demo)
+target/
+*.class
